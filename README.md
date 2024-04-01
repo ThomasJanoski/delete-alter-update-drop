@@ -1,2 +1,2 @@
-# delete-alter-update-drop
-Repositório para a atividade DELETE, ALTER, UPDATE E DROP
+# DELETE, ALTER, UPDATE E DROP
+Repositório para a atividade **DELETE, ALTER, UPDATE E DROP**
